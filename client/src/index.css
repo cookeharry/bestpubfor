@@ -1,0 +1,14 @@
+body {
+  background-color: #f5f1e6;
+  color: #222;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
